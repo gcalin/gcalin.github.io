@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Calin Georgescu"
+title                    : "Calin-Andrei Georgescu"
 title_separator          : "-"
 name                     : &name "Calin-Andrei Georgescu"
 description              : &description "personal description"
@@ -85,8 +85,8 @@ author:
   bio              : "Computer Science MSc. in Artificial Intelligence Technology at TU Delft."
   location         : "Delft, NL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "caling@protonmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/calin-andrei-georgescu-914538193"
+  linkedin         : "calin-andrei-georgescu-914538193"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
