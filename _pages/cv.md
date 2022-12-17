@@ -31,5 +31,5 @@ Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-[Download PDF](gcalin.github.io/files/resume_cg.pdf)
+[Download PDF](../files/resume_cg.pdf)
 ======
