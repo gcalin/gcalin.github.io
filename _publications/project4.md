@@ -5,3 +5,5 @@ permalink: /publication/ea-for-tsp
 excerpt: 'Implementing a novel evolutionary local search heuristic for the TSP problem and comparing its effects on three permutation-preserving encodings against the standard 2-opt heuristic. [Paper](http://gcalin.github.io/files/project4.pdf).'
 date: 2022-06-30
 ---
+
+Implementing a novel evolutionary local search heuristic for the TSP problem and comparing its effects on three permutation-preserving encodings against the standard 2-opt heuristic. [Paper](http://gcalin.github.io/files/project4.pdf).

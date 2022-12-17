@@ -5,3 +5,5 @@ permalink: /publication/sat-for-cc
 excerpt: 'Using a MaxSAT-based approach for solving the correlation clustering problem exactly, and comparing state of the art implementations from literature. [Paper](http://gcalin.github.io/files/project3.pdf).'
 date: 2022-06-30
 ---
+
+Using a MaxSAT-based approach for solving the correlation clustering problem exactly, and comparing state of the art implementations from literature. [Paper](http://gcalin.github.io/files/project3.pdf).
