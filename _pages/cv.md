@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [(download)](gcalin.github.iof/files/resume_cg.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,3 +30,5 @@ Projects
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+[Download PDF](gcalin.github.iof/files/resume_cg.pdf)
