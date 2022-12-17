@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Computer Science, Artificial Intelligence Technology, TU Delft, 2023
+* B.Sc. in Computer Science and Engineering, TU Delft, 2021
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research and Teaching Assitant (Feb. 2021 - current)
+  * Helped with teaching activities for courses about Operating Systems, Scientific Programming, and Software Engineering.
+  * Developed and improved feedback-driven automatic grading tools for student projects. My work has been used by over 500 students.
+  * Helped students with their questions and graded their assignments over 10 week periods.
+  * Supervised and guided multidisciplinary teams of students for their projects.
+  * Helped create and maintain several projects and assignments.
+  * Led a small team of assistants as head TA.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+[Download PDF](../files/resume_cg.pdf)
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
