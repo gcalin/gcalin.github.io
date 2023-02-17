@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Calin-Andrei Georgescu"
+title                    : "Calin Georgescu"
 title_separator          : "-"
-name                     : &name "Calin-Andrei Georgescu"
+name                     : &name "Calin Georgescu"
 description              : &description "personal description"
 url                      : https://gcalin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
