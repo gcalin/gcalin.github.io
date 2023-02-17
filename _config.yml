@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Calin Georgescu"
+title_head_display       : "Calin-Andrei Georgescu"
 title_separator          : "-"
 name                     : &name "Calin Georgescu"
 description              : &description "personal description"
